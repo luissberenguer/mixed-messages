@@ -5,6 +5,7 @@ function printMessage(){
   el.textContent = `This is random message: ${randomNum}`;
   }
   
+
   // If we want a record of all the random messages, we change printMessage() for recorgMessges() in HTML
 
 function recordMessages(){
@@ -13,3 +14,5 @@ function recordMessages(){
   let el = document.getElementById('messages');
   el.innerHTML += msg;
 }
+
+
