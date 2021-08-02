@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  body {
+    background: #a52a2a;
+    color: #fff;
+    padding: 25px;
+    font-family: sans-serif;
+  }
+  
+  #clickMe {
+    text-align: center;
+    padding: 5px;
+    background-color: orange;
+  }
+  
+  #clickMe:hover {
+    background: red;
+    color: #FFF;
+    border-color: white;
+  }
+  
+  .messages {
+    padding: 100px, 300px;
+    background-color: grey;
+  }
