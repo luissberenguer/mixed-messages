@@ -1,8 +1,10 @@
-| First Part | Second Part | Third Part           |
-| ---------- | ----------- | -------------------- |
-| The one    | is          | breaks hearts        |
-| It         | who         | is full of moonlight |
-| He         | is          | is full of love      |
-| She        | who         | wins hearts          |
-| The one    | is          | rules                |
-| The one    | who         | is made of color     |
+| First Part | Second Part | Third Part        |
+| ---------- | ----------- | ----------------- |
+| The one    | is          | breaks hearts     |
+| It         | who         | full of moonlight |
+| He         | is          | full of love      |
+| She        | who         | wins hearts       |
+| The one    | is          | rules             |
+| The one    | who         | made of color     |
+| The one    | who         | destroys          |
+| She        | is          | great             |
