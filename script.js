@@ -7,7 +7,6 @@ function printMessage(){
 
 function recordMessages(){
   let el = document.getElementById('messages'); // Get <div>
-  console.log(el);
   let msg = `<p>${randomMessage()}</p>`;
   el.innerHTML = msg + el.innerHTML;  // Add paragraphs
 }
